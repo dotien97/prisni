@@ -1,0 +1,13 @@
+.col-xl-2-4 {
+    flex: 0 0 10%;
+    max-width: 10%;
+}
+.col-xl-8-4 {
+    flex: 0 0 80%;
+    max-width: 80%;
+    padding-left: 74px;
+}
+.col-xl-2-6 {
+    flex: 0 0 10%;
+    max-width: 10%;
+}

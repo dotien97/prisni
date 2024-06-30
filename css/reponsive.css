@@ -1,0 +1,307 @@
+@media (max-width: 1440px) {
+    .slider-instruct .container {
+        max-width: 1470px;
+        padding: 0 15px;
+    }
+    .header-search {
+        margin-left: 50px;
+    }
+    .slider-item {
+        width: 60%;
+    }
+    
+    .slider-instruct-item-second {
+        position: static;
+    }
+    .slider-instruct-item-third {
+        position: static;
+    }
+    .slider-instruct-item-last {
+        position: static;
+    }
+    .slider-instruct-infor {
+        width: 100%;
+
+    }
+    .slider-instruct-item-first {
+        position: absolute;
+        left: 0;
+        top: -6%;
+        z-index: 1;
+    }
+    .slider-instruct-item-four {
+        display: none;
+    }
+    .slider-instruct-combo {
+        margin-top: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .slider-instruct {
+        margin: 100px 0 100px 0;
+    }
+}
+@media (max-width: 1200px)  {
+    .bwp-header .header-desktop {
+        display: none;
+    }
+    .header-mobile {
+        display: block;
+    }
+    .header-mobile-fixed {
+        display: block;
+    }
+    .bwp-footer {
+        margin-bottom: 65px;
+    }
+    .support-item {
+        margin-left: 15px;
+    }
+    .support-email {
+        margin-right: 15px;
+        margin-left: 30px;
+    }
+    .contact-img {
+        padding: 20px 0;
+    }
+    /* .slider-infor {
+        left: 0;
+        right: 0;
+        bottom: 10%;
+    } */
+}
+@media (max-width: 992px) {
+    /* .slider-infor {
+        left: 0;
+        right: 0;
+        bottom: 10%;
+    } */
+    .products {
+        margin-bottom: 70px;
+    }
+    .products .container .row {
+        padding-bottom: 40px;
+    }
+    .products-infor {
+        margin-bottom: 50px;
+    }
+    .content {
+        margin-bottom: 55px;
+    }
+    .content-img {
+        margin-bottom: 50px;
+    }
+    .contact-img {
+        padding: 20px 0;
+    }
+    
+    .footer-first .container .row {
+        padding: 130px 0 60px 0;
+    }
+    .footer-item-first {
+        margin: 60px 0 60px 0;
+    }
+    .footer-list-customer {
+        margin: 60px 0 60px 0;
+    }
+    .support-email {
+        margin: 0 30px 45px 30px;
+    }
+    .support-item {
+       margin: 30px 0 30px 30px;
+    }
+    
+}
+@media (max-width: 768px) {
+    .slider-item-img-second {
+        width: 60%;
+    }
+    .slider-item-img-third {
+        width: 60%;
+    }
+    .slider-infor {
+        left: 0;
+        right: 0;
+        bottom: 20%;
+    }
+    .slider-item-img-third {
+        display: none;
+    }
+    .footer-contact {
+        margin-bottom: 15px;
+    }
+    .slider-instruct-infor-item {
+        padding: 60px 0 65px 60px;
+    }
+    .slider-instruct {
+        margin: 80px 0 100px 0;
+    }
+}
+@media (max-width: 576px) {
+    .slider-instruct .container {
+        padding-right: 15px;
+    }
+    .slider-instruct-infor-item {
+        padding: 30px 0 30px 30px;
+    }
+    .slider-infor-heading {
+        font-size: 40px;
+    }
+    .slider-infor-title {
+        font-size: 16px;
+
+    }
+   
+   
+    .slider-instruct-infor {
+        width: 100%;
+    }
+   
+    .support-email-wrap {
+        padding-left: 20px;
+    }
+    .support-email {
+        height: 51px;
+    }
+    .support-email-btn {
+        height: 50px;
+    }
+    .support-btn {
+        height: 40px;
+    }
+    .support-item-title {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    .support-item-subtitle {
+        font-size: 14px;
+    }
+    .icon-Group-404 {
+        font-size: 50px;
+    }
+    .support-email-btn::placeholder {
+        font-size: 14px;
+    }
+    .slider-promo-list {
+        padding: 30px 0;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .widget-img {
+        margin-bottom: 0;
+    }
+    .widget-infor {
+        margin-bottom: 30px;
+    }
+    .contact-img {
+        padding: 40px 0;
+    }
+    .footer-list-help {
+        margin-bottom: 60px;
+    }
+    
+    .footer-item-first {
+        margin-bottom: 0;
+    }
+    .products-infor {
+        margin-bottom: 50px;
+    }
+    .products .container .row {
+        padding-bottom: 30px;
+    }
+    .products {
+        margin-bottom: 70px;
+    }
+    /* .products-sub-heading-list {
+        flex-wrap: nowrap;
+        width: auto;
+    }
+    .products-heading-item {
+        min-width: 20%;
+    } */
+   
+    .products-sub-heading {
+        margin-bottom: 30px;
+    }
+    .support-item-icon {
+        margin-right: 15px;
+    }
+    
+}
+@media (max-width: 505px) {
+    .products-sub-heading-list {
+        display: flex;
+        flex-wrap: nowrap;
+        width: auto;
+    }
+    .products-heading-item {
+        /* min-width: 25%; */
+        margin-left: 40px;
+    }
+    .heading-item-first {
+        margin-left: 0;
+    }
+}
+@media (max-width: 445px) {
+     .products-sub-heading-list {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .products-heading-item {
+        background-color: #fff;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 5px;
+        margin-left: 0;
+    }
+    .heading-item-first, .heading-item-second, .heading-item-third , .heading-item-last {
+        padding: 5px 0;
+    }
+}
+@media (max-width: 480px) {
+    .slider-instruct-subheading {
+        font-size: 12px;
+    }
+    .slider-instruct-heading {
+        font-size: 26px;
+    }
+    .slider-instruct-title {
+        font-size: 14px;
+    }
+    .slider-instruct-subtitle {
+        font-size: 14px;
+    }
+    .support-item-infor {
+        height: auto;
+    }
+    .support-item {
+        margin: 15px 0 15px 15px;
+    }
+    .support-email {
+        margin: 15px 0 15px 15px;
+
+    }
+    
+}
+@media (max-width: 376px) {
+    .slider-infor-title {
+        font-size: 14px;
+    }
+}
+@media (max-width: 321px) {
+    .slider-instruct-infor-item {
+        padding: 30px 0 30px 15px;
+    }
+    .support-item-icon {
+        display: none;
+    }
+    .slider-infor-heading {
+        font-size: 35px;
+    }
+    .slider-infor-title {
+        font-size: 12px;
+    }
+}
